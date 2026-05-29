@@ -1,0 +1,10 @@
+venv/
+dataset/
+outputs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.mat
+*.pkl
+*.zip
+.env
